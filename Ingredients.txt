@@ -1,0 +1,6 @@
+Arduino uno
+16x2 lcd display
+0.25 - 0.5W 8 ohm speaker
+10k potentiometer
+jumper,led,resistor 
+1 piece lm35 temperature sensor
